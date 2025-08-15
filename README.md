@@ -86,8 +86,3 @@ Core ideas:
 4. **User View**  
    Non-admin users can browse trips (if you enable a public view in the future).
 
----
-
-## 📸 Dashboard Preview
-
-![Travel Agency Dashboard](public/dashboard-preview.png)
