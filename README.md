@@ -90,10 +90,11 @@ Core ideas:
 
 ## 📂 Project Structure
 
-travel-agency-dashboard/
+travel-agency-dashboard
 │
 ├── routes/ # Application routes
 │ ├── admin/ # Admin dashboard pages
+
 │ │ ├── dashboard.tsx # Dashboard overview
 │ │ ├── all-users.tsx # List of all users
 │ │ ├── trips.tsx # All trips table/list
