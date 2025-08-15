@@ -88,23 +88,6 @@ Core ideas:
 
 ---
 
-## 📂 Project Structure
+## 📸 Dashboard Preview
 
-travel-agency-dashboard
-│
-├── routes/ # Application routes
-│ ├── admin/ # Admin dashboard pages
-
-│ │ ├── dashboard.tsx # Dashboard overview
-│ │ ├── all-users.tsx # List of all users
-│ │ ├── trips.tsx # All trips table/list
-│ │ ├── create-trip.tsx # Trip creation form + AI calls
-│ │ └── trip-detail.tsx # Detailed view of one trip
-│ ├── api/ # Server/API functions
-│ │ └── create-trip.ts # Calls Gemini + Unsplash + Appwrite
-│
-├── components/ # Reusable UI components
-├── styles/ # Tailwind styles and configs
-├── public/ # Static files
-├── vite.config.ts # Vite configuration
-└── package.json # Dependencies and scripts
+![Travel Agency Dashboard](public/dashboard-preview.png)
