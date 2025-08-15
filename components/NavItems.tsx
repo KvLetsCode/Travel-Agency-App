@@ -7,7 +7,7 @@ const NavItems = ({onhandleClick}:{onhandleClick?: () => void}) => {
   const user = {
     name: 'Adrian',
     email: 'contact@jsmastery.pro',
-    imageUrl:'assets/images/david.webp'
+    imageUrl:'/assets/images/david.webp'
   }
 
 
@@ -42,7 +42,7 @@ const NavItems = ({onhandleClick}:{onhandleClick?: () => void}) => {
         </nav>
 
         <footer className="nav-footer">
-          <img src={user?.imageUrl || '/assets/images.david.webp'} alt={user?.name || 'Adrian'} />
+          <img src={user?.imageUrl || '/assets/images/david.webp'} alt={user?.name || 'Adrian'} />
           <article>
             <h2>{user?.name}</h2>
             <p>{ user?.email}</p>
