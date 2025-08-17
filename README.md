@@ -3,6 +3,9 @@
 A complete **Travel Agency Management System** built with **React Router v7**, **Vite**, **TailwindCSS**, and **Appwrite**.  
 This project allows **admins** to manage trips, users, and content — with the help of **AI (Google Gemini)** and **Unsplash API** to generate rich descriptions and images automatically.
 
+<img width="1899" height="884" alt="Screenshot 2025-08-17 203549" src="https://github.com/user-attachments/assets/a81a897b-657d-42a4-a983-9e09cbf67719" />
+
+
 ---
 
 ## 📖 Table of Contents
