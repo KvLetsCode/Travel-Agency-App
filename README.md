@@ -5,8 +5,14 @@ This project allows **admins** to manage trips, users, and content — with the 
 
 <img width="1899" height="884" alt="Screenshot 2025-08-17 203549" src="https://github.com/user-attachments/assets/a81a897b-657d-42a4-a983-9e09cbf67719" />
 
+<img width="1888" height="883" alt="Screenshot 2025-08-17 203911" src="https://github.com/user-attachments/assets/ea39e814-5083-4848-89a0-895a434265a9" />
 
----
+
+<img width="1867" height="882" alt="Screenshot 2025-08-17 204002" src="https://github.com/user-attachments/assets/15f3b863-82c2-4434-b03b-19517bb012a6" />
+<img width="1616" height="873" alt="Screenshot 2025-08-17 204022" src="https://github.com/user-attachments/assets/161dd392-0f9b-48e4-8065-5d8daaeb16bf" />
+<img width="1661" height="811" alt="Screenshot 2025-08-17 204044" src="https://github.com/user-attachments/assets/853dca1c-f674-4707-b1a8-cec706dd73a8" />
+
+ ---
 
 ## 📖 Table of Contents
 1. [Overview](#overview)
